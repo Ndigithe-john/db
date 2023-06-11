@@ -17,6 +17,7 @@ CREATE TABLE Authors(
 
  SELECT * FROM Authors;
  SELECT * FROM Books;
+ --Select * from Books;
 
 
  --Write a query to retrieve the book with the title 'Book2'.
